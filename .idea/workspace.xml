@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c86b4b-eb38-49de-82ba-1bac61757c7e" name="Changes" comment="Commiting">
-      <change afterPath="$PROJECT_DIR$/src/sept_ex_04_11_2024/lab003.java" afterDir="false" />
+    <list default="true" id="a5c86b4b-eb38-49de-82ba-1bac61757c7e" name="Changes" comment="Commiting 14-09">
+      <change afterPath="$PROJECT_DIR$/src/sept_ex_04_11_2024/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept_ex_04_11_2024/Tableof10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +47,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Calculator.executor": "Run",
+    "Application.Tableof10.executor": "Run",
     "Application.lab003.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -52,13 +56,39 @@
     "onboarding.tips.debug.path": "C:/Users/suvid/IdeaProjects/ATB8xPrograms/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13_09_2024.Calculator" />
+      <module name="ATB8xPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_13_09_2024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tableof10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13_09_2024.Tableof10" />
+      <module name="ATB8xPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_13_09_2024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="lab003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sept_ex_04_11_2024.lab003" />
       <module name="ATB8xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sept_ex_04_11_2024.*" />
+          <option name="PATTERN" value="ex_13_09_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,6 +98,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.Tableof10" />
         <item itemvalue="Application.lab003" />
       </list>
     </recent_temporary>
@@ -97,12 +129,21 @@
       <option name="project" value="LOCAL" />
       <updated>1726309227139</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commiting 14-09">
+      <option name="closed" value="true" />
+      <created>1726309935042</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726309935042</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commiting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commiting" />
+    <MESSAGE value="Commiting 14-09" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commiting 14-09" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5c86b4b-eb38-49de-82ba-1bac61757c7e" name="Changes" comment="Commiting 14-09">
-      <change afterPath="$PROJECT_DIR$/src/ex_25_09_2024/FactorialofNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_25_09_2024/Tableof10Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_25_09_2024/VowelsandConsonants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_25_09_2024/VowelsandConsonants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_25_09_2024/VowelsandConsonants.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727261102553</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Commiting 14-09">
+      <option name="closed" value="true" />
+      <created>1727264049235</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727264049235</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

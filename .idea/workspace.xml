@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5c86b4b-eb38-49de-82ba-1bac61757c7e" name="Changes" comment="Commiting 14-09">
-      <change afterPath="$PROJECT_DIR$/src/ex_20_09_2024/Fizbuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20_09_2024/GradeTernary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20_09_2024/Leapyear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20_09_2024/Max3Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20_09_2024/Maxnumbersternary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20_09_2024/Traingleclassifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23_09_2024/CalculatorSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23_09_2024/ConvertUnitsSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_23_09_2024/MonthSwitch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_23_09_2024/CalculatorSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_23_09_2024/CalculatorSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_23_09_2024/ConvertUnitsSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_23_09_2024/ConvertUnitsSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_23_09_2024/MonthSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_23_09_2024/MonthSwitch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,10 +49,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Calculator.executor": "Run",
+    "Application.CalculatorSwitch.executor": "Run",
     "Application.Fizbuzz.executor": "Run",
     "Application.Increments.executor": "Run",
+    "Application.Leapyear.executor": "Run",
     "Application.Max3Numbers.executor": "Run",
     "Application.Maxnumbersternary.executor": "Run",
+    "Application.MonthSwitch.executor": "Run",
     "Application.Tableof10.executor": "Run",
     "Application.Traingleclassifier.executor": "Run",
     "Application.TypeCasting.executor": "Run",
@@ -70,7 +67,33 @@
     "onboarding.tips.debug.path": "C:/Users/suvid/IdeaProjects/ATB8xPrograms/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Leapyear">
+  <component name="RunManager" selected="Application.ConvertUnitsSwitch">
+    <configuration name="CalculatorSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_23_09_2024.CalculatorSwitch" />
+      <module name="ATB8xPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_23_09_2024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertUnitsSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_23_09_2024.ConvertUnitsSwitch" />
+      <module name="ATB8xPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_23_09_2024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Fizbuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_20_09_2024.Fizbuzz" />
       <module name="ATB8xPrograms" />
@@ -97,38 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Max3Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20_09_2024.Max3Numbers" />
+    <configuration name="MonthSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_23_09_2024.MonthSwitch" />
       <module name="ATB8xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_20_09_2024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Maxnumbersternary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20_09_2024.Maxnumbersternary" />
-      <module name="ATB8xPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_20_09_2024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Traingleclassifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20_09_2024.Traingleclassifier" />
-      <module name="ATB8xPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_20_09_2024.*" />
+          <option name="PATTERN" value="ex_23_09_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConvertUnitsSwitch" />
+        <item itemvalue="Application.MonthSwitch" />
+        <item itemvalue="Application.CalculatorSwitch" />
         <item itemvalue="Application.Leapyear" />
         <item itemvalue="Application.Fizbuzz" />
-        <item itemvalue="Application.Traingleclassifier" />
-        <item itemvalue="Application.Max3Numbers" />
-        <item itemvalue="Application.Maxnumbersternary" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726832717774</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Commiting 14-09">
+      <option name="closed" value="true" />
+      <created>1727258715885</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727258715885</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

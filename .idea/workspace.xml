@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5c86b4b-eb38-49de-82ba-1bac61757c7e" name="Changes" comment="Commiting 14-09">
+      <change afterPath="$PROJECT_DIR$/src/ex_25_09_2024/FactorialofNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_25_09_2024/Tableof10Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_25_09_2024/VowelsandConsonants.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_23_09_2024/CalculatorSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_23_09_2024/CalculatorSwitch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_23_09_2024/ConvertUnitsSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_23_09_2024/ConvertUnitsSwitch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_23_09_2024/MonthSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_23_09_2024/MonthSwitch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,8 @@
   "keyToString": {
     "Application.Calculator.executor": "Run",
     "Application.CalculatorSwitch.executor": "Run",
+    "Application.ConvertUnitsSwitch.executor": "Run",
+    "Application.FactorialofNumber.executor": "Run",
     "Application.Fizbuzz.executor": "Run",
     "Application.Increments.executor": "Run",
     "Application.Leapyear.executor": "Run",
@@ -57,8 +59,10 @@
     "Application.Maxnumbersternary.executor": "Run",
     "Application.MonthSwitch.executor": "Run",
     "Application.Tableof10.executor": "Run",
+    "Application.Tableof10Loop.executor": "Run",
     "Application.Traingleclassifier.executor": "Run",
     "Application.TypeCasting.executor": "Run",
+    "Application.VowelsandConsonants.executor": "Run",
     "Application.addition.executor": "Run",
     "Application.lab003.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -67,20 +71,7 @@
     "onboarding.tips.debug.path": "C:/Users/suvid/IdeaProjects/ATB8xPrograms/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ConvertUnitsSwitch">
-    <configuration name="CalculatorSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_23_09_2024.CalculatorSwitch" />
-      <module name="ATB8xPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_23_09_2024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.VowelsandConsonants">
     <configuration name="ConvertUnitsSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_23_09_2024.ConvertUnitsSwitch" />
       <module name="ATB8xPrograms" />
@@ -94,25 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fizbuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20_09_2024.Fizbuzz" />
+    <configuration name="FactorialofNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_25_09_2024.FactorialofNumber" />
       <module name="ATB8xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_20_09_2024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Leapyear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20_09_2024.Leapyear" />
-      <module name="ATB8xPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_20_09_2024.*" />
+          <option name="PATTERN" value="ex_25_09_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,13 +111,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tableof10Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_25_09_2024.Tableof10Loop" />
+      <module name="ATB8xPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_25_09_2024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VowelsandConsonants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_25_09_2024.VowelsandConsonants" />
+      <module name="ATB8xPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_25_09_2024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VowelsandConsonants" />
+        <item itemvalue="Application.FactorialofNumber" />
+        <item itemvalue="Application.Tableof10Loop" />
         <item itemvalue="Application.ConvertUnitsSwitch" />
         <item itemvalue="Application.MonthSwitch" />
-        <item itemvalue="Application.CalculatorSwitch" />
-        <item itemvalue="Application.Leapyear" />
-        <item itemvalue="Application.Fizbuzz" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727258715885</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Commiting 14-09">
+      <option name="closed" value="true" />
+      <created>1727261102553</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727261102553</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

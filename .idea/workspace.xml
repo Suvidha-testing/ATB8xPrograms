@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5c86b4b-eb38-49de-82ba-1bac61757c7e" name="Changes" comment="Commiting 14-09">
-      <change afterPath="$PROJECT_DIR$/src/ex_13_09_2024/addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_09_2024/Increments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_09_2024/TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20_09_2024/Fizbuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20_09_2024/GradeTernary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20_09_2024/Leapyear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20_09_2024/Max3Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20_09_2024/Maxnumbersternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20_09_2024/Traingleclassifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_23_09_2024/CalculatorSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_23_09_2024/ConvertUnitsSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_23_09_2024/MonthSwitch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +55,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Calculator.executor": "Run",
+    "Application.Fizbuzz.executor": "Run",
     "Application.Increments.executor": "Run",
+    "Application.Max3Numbers.executor": "Run",
+    "Application.Maxnumbersternary.executor": "Run",
     "Application.Tableof10.executor": "Run",
+    "Application.Traingleclassifier.executor": "Run",
     "Application.TypeCasting.executor": "Run",
     "Application.addition.executor": "Run",
     "Application.lab003.executor": "Run",
@@ -60,13 +70,13 @@
     "onboarding.tips.debug.path": "C:/Users/suvid/IdeaProjects/ATB8xPrograms/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Increments">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13_09_2024.Calculator" />
+  <component name="RunManager" selected="Application.Leapyear">
+    <configuration name="Fizbuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20_09_2024.Fizbuzz" />
       <module name="ATB8xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13_09_2024.*" />
+          <option name="PATTERN" value="ex_20_09_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Increments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_18_09_2024.Increments" />
+    <configuration name="Leapyear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20_09_2024.Leapyear" />
       <module name="ATB8xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_18_09_2024.*" />
+          <option name="PATTERN" value="ex_20_09_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tableof10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13_09_2024.Tableof10" />
+    <configuration name="Max3Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20_09_2024.Max3Numbers" />
       <module name="ATB8xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13_09_2024.*" />
+          <option name="PATTERN" value="ex_20_09_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_18_09_2024.TypeCasting" />
+    <configuration name="Maxnumbersternary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20_09_2024.Maxnumbersternary" />
       <module name="ATB8xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_18_09_2024.*" />
+          <option name="PATTERN" value="ex_20_09_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13_09_2024.addition" />
+    <configuration name="Traingleclassifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20_09_2024.Traingleclassifier" />
       <module name="ATB8xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13_09_2024.*" />
+          <option name="PATTERN" value="ex_20_09_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Increments" />
-        <item itemvalue="Application.TypeCasting" />
-        <item itemvalue="Application.addition" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.Tableof10" />
+        <item itemvalue="Application.Leapyear" />
+        <item itemvalue="Application.Fizbuzz" />
+        <item itemvalue="Application.Traingleclassifier" />
+        <item itemvalue="Application.Max3Numbers" />
+        <item itemvalue="Application.Maxnumbersternary" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726552756152</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commiting 14-09">
+      <option name="closed" value="true" />
+      <created>1726832717774</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726832717774</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

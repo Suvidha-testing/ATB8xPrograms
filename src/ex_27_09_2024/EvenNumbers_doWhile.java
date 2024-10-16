@@ -16,5 +16,18 @@ public class EvenNumbers_doWhile {
             i++;
         } while(i<=20);
 
+
+
+        /*
+        do
+        {
+        sout(numner);
+        number +=2;
+        count ++;
+        } while (count<=5;
+
+
+         */
+
     }
 }

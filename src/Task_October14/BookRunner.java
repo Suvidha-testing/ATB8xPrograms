@@ -9,5 +9,8 @@ public class BookRunner {
 
         b.getDetails();
 
+        Book1 b1=new PrintMyBook1("Harry Potter","J.k. Rowling",120);
+        b1.getdetails();
+
     }
 }

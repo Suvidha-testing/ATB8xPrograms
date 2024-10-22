@@ -5,25 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5c86b4b-eb38-49de-82ba-1bac61757c7e" name="Changes" comment="Commiting 14-09">
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/BaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/BrowserRunnner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/ChromeBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/FirefoxBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/GrandBaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/Lab21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/realex2/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/realex2/Lab30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/realex2/Wagnr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/realx/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/realx/Lab28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/realx/son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/Lab31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/Lab32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/Lab33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_October14/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_October14/BookRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_October14/PrintMyBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Static/Lab35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Static/Lab36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Lab39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/ex_October_18/StringLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/ex_October_18/StringReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/ex_October_18/palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/lab38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/lab40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/lab41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_October14/Book1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_October14/PrintMyBook1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enmus/lab37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enmus/lab38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enmus/lab39.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_October14/BookRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_October14/BookRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +80,14 @@
     "Application.Lab28.executor": "Run",
     "Application.Lab31.executor": "Run",
     "Application.Lab32.executor": "Run",
+    "Application.Lab35 (1).executor": "Run",
+    "Application.Lab35.executor": "Run",
+    "Application.Lab36 (1).executor": "Run",
+    "Application.Lab36 (2).executor": "Run",
+    "Application.Lab36 (3).executor": "Run",
+    "Application.Lab36 (4).executor": "Run",
+    "Application.Lab36.executor": "Run",
+    "Application.Lab39.executor": "Run",
     "Application.LabProgramming.executor": "Run",
     "Application.Leapyear.executor": "Run",
     "Application.Max3Numbers.executor": "Run",
@@ -91,6 +96,8 @@
     "Application.PrintPrimeNumber.executor": "Run",
     "Application.Runner_mathop.executor": "Run",
     "Application.RunnerclassBaseTest.executor": "Run",
+    "Application.StringLength.executor": "Run",
+    "Application.StringReverse.executor": "Run",
     "Application.SumofNumbers.executor": "Run",
     "Application.Tableof10.executor": "Run",
     "Application.Tableof10Loop.executor": "Run",
@@ -100,21 +107,25 @@
     "Application.WhileandDowhile.executor": "Run",
     "Application.addition.executor": "Run",
     "Application.lab003.executor": "Run",
+    "Application.lab38.executor": "Run",
+    "Application.lab40.executor": "Run",
+    "Application.palindrome.executor": "Run",
     "Application.runner_overidinghome.executor": "Run",
     "Application.vwologinrunner.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/suvid/IdeaProjects/ATB8xPrograms/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/suvid/IdeaProjects/ATB8xPrograms/src/Main.java",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BookRunner">
-    <configuration name="BookRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_October14.BookRunner" />
+  <component name="RunManager" selected="Application.palindrome">
+    <configuration name="Lab39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.Lab39" />
       <module name="ATB8xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task_October14.*" />
+          <option name="PATTERN" value="Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BrowserRunnner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Abstraction.BrowserRunnner" />
+    <configuration name="StringLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.ex_October_18.StringLength" />
       <module name="ATB8xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Abstraction.*" />
+          <option name="PATTERN" value="Strings.ex_October_18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Abstraction.realx.Lab28" />
+    <configuration name="StringReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.ex_October_18.StringReverse" />
       <module name="ATB8xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Abstraction.realx.*" />
+          <option name="PATTERN" value="Strings.ex_October_18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interface.Lab31" />
+    <configuration name="lab40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.lab40" />
       <module name="ATB8xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Interface.*" />
+          <option name="PATTERN" value="Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interface.Lab32" />
+    <configuration name="palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.ex_October_18.palindrome" />
       <module name="ATB8xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Interface.*" />
+          <option name="PATTERN" value="Strings.ex_October_18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BookRunner" />
-        <item itemvalue="Application.Lab32" />
-        <item itemvalue="Application.Lab31" />
-        <item itemvalue="Application.Lab28" />
-        <item itemvalue="Application.BrowserRunnner" />
+        <item itemvalue="Application.palindrome" />
+        <item itemvalue="Application.StringReverse" />
+        <item itemvalue="Application.StringLength" />
+        <item itemvalue="Application.lab40" />
+        <item itemvalue="Application.Lab39" />
       </list>
     </recent_temporary>
   </component>
@@ -281,7 +292,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729055856135</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Commiting 14-09">
+      <option name="closed" value="true" />
+      <created>1729245275838</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1729245275838</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

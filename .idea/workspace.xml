@@ -5,22 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5c86b4b-eb38-49de-82ba-1bac61757c7e" name="Changes" comment="Commiting 14-09">
-      <change afterPath="$PROJECT_DIR$/src/Static/Lab35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Static/Lab36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/Lab39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/ex_October_18/StringLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/ex_October_18/StringReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/ex_October_18/palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/lab38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/lab40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/lab41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_October14/Book1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_October14/PrintMyBook1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enmus/lab37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enmus/lab38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enmus/lab39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/array2d.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/lab1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/lab1d.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/lab2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/lab3_2dPrinting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/task_25_Oct/Arrays_task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/task_25_Oct/Arrays_task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/Examples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/checked_unchecked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/example7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/example9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wrapperClass/lab42.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_October14/BookRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_October14/BookRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +66,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.APIAutomation.executor": "Run",
+    "Application.Arrays_task1.executor": "Run",
     "Application.BookRunner.executor": "Run",
     "Application.BrowserRunnner.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.CalculatorSwitch.executor": "Run",
     "Application.CallingMethod.executor": "Run",
     "Application.ConvertUnitsSwitch.executor": "Run",
+    "Application.CustomException.executor": "Run",
     "Application.EvenNumbers_doWhile.executor": "Run",
+    "Application.Exceptions.executor": "Run",
     "Application.FactorialofNumber.executor": "Run",
     "Application.Fizbuzz.executor": "Run",
     "Application.IciciRunner.executor": "Run",
@@ -106,9 +114,19 @@
     "Application.VowelsandConsonants.executor": "Run",
     "Application.WhileandDowhile.executor": "Run",
     "Application.addition.executor": "Run",
+    "Application.checked_unchecked.executor": "Run",
+    "Application.example1.executor": "Run",
+    "Application.example3.executor": "Run",
+    "Application.example4.executor": "Run",
+    "Application.example6.executor": "Run",
+    "Application.example7.executor": "Run",
     "Application.lab003.executor": "Run",
+    "Application.lab1.executor": "Run",
+    "Application.lab2.executor": "Run",
     "Application.lab38.executor": "Run",
+    "Application.lab3_2dPrinting.executor": "Run",
     "Application.lab40.executor": "Run",
+    "Application.lab42.executor": "Run",
     "Application.palindrome.executor": "Run",
     "Application.runner_overidinghome.executor": "Run",
     "Application.vwologinrunner.executor": "Run",
@@ -119,13 +137,13 @@
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.palindrome">
-    <configuration name="Lab39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.Lab39" />
+  <component name="RunManager" selected="Application.Arrays_task2">
+    <configuration name="Arrays_task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.task_25_Oct.Arrays_task1" />
       <module name="ATB8xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.*" />
+          <option name="PATTERN" value="Arrays.task_25_Oct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.ex_October_18.StringLength" />
+    <configuration name="Arrays_task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.task_25_Oct.Arrays_task2" />
       <module name="ATB8xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.ex_October_18.*" />
+          <option name="PATTERN" value="Arrays.task_25_Oct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +164,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.ex_October_18.StringReverse" />
+    <configuration name="Exceptions" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Exceptions.Exceptions" />
+      <module name="ATB8xPrograms" />
+      <option name="PROGRAM_PARAMETERS" value="10 10 10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.example1" />
       <module name="ATB8xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.ex_October_18.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.lab40" />
+    <configuration name="lab1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.lab1" />
       <module name="ATB8xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,12 +198,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.ex_October_18.palindrome" />
+    <configuration name="lab3_2dPrinting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.lab3_2dPrinting" />
       <module name="ATB8xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.ex_October_18.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,13 +211,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Exceptions" />
+      <item itemvalue="Application.Arrays_task1" />
+      <item itemvalue="Application.Arrays_task2" />
+      <item itemvalue="Application.example1" />
+      <item itemvalue="Application.lab1" />
+      <item itemvalue="Application.lab3_2dPrinting" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.palindrome" />
-        <item itemvalue="Application.StringReverse" />
-        <item itemvalue="Application.StringLength" />
-        <item itemvalue="Application.lab40" />
-        <item itemvalue="Application.Lab39" />
+        <item itemvalue="Application.Arrays_task2" />
+        <item itemvalue="Application.Arrays_task1" />
+        <item itemvalue="Application.example1" />
+        <item itemvalue="Application.lab3_2dPrinting" />
+        <item itemvalue="Application.lab1" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +334,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729245275838</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Commiting 14-09">
+      <option name="closed" value="true" />
+      <created>1729572433666</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1729572433666</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
